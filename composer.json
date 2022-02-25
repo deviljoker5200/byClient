@@ -1,12 +1,12 @@
 {
-    "name": "jjg/byclient",
+    "name": "deviljoker5200/byclient",
     "description": "ByClient is a Laravel package for baidyun Api",
     "type": "composer-plugin",
     "license": "MIT",
     "authors": [
         {
-            "name": "JiJianGui",
-            "email": "378823123@qq.com"
+            "name": "deviljoker",
+            "email": "deviljoker5200@gmail.com"
         }
     ],
     "minimum-stability": "dev",
