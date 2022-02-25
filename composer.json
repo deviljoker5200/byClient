@@ -15,18 +15,18 @@
     },
     "autoload": {
         "psr-4": {
-            "Jjg\\": "src/"
+            "Deviljoker5200\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Jjg\\ByClient\\Tests\\": "tests/"
+            "Deviljoker5200\\ByClient\\Tests\\": "tests/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Jjg\\Providers\\ByClientServiceProvider"
+                "Deviljoker5200\\Providers\\ByClientServiceProvider"
             ]
         }
     }
